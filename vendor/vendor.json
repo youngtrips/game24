@@ -1,0 +1,13 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "HZfDAxEDZSDkoP8rgDcl9rk/EvY=",
+			"path": "github.com/novalagung/golpal",
+			"revision": "f7529312d084a402622dbf346c7d668e4ccd5766",
+			"revisionTime": "2016-11-25T02:12:34Z"
+		}
+	],
+	"rootPath": "game24"
+}
